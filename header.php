@@ -1,0 +1,1 @@
+<img src="photo_sylvain.jpg" alt="photo de sylvain" style="height: 400px; width: 300px;" />
